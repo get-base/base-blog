@@ -2,7 +2,7 @@
 avatar = "/images/lola_badge.png"
 bio = "Founder of Base"
 draft = true
-featured = false
+featured = true
 title = "Lola Priego"
 [[social]]
 title = "LinkedIn"
