@@ -44,4 +44,5 @@ fields:
   label: Featured Author
   description: Feature this author on the home page
 pages:
+- content/authors/dr-maurice-beer.md
 - content/authors/lola-priego.md
