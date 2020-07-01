@@ -1,7 +1,6 @@
 +++
 avatar = "/images/lola_badge.png"
 bio = "Founder of Base"
-draft = true
 featured = true
 title = "Lola Priego"
 [[social]]
