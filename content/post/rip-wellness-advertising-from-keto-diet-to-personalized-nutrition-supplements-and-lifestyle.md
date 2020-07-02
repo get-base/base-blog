@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-07-01T16:00:00Z
-draft = true
 excerpt = "from Keto diet to building a company to find your ideal diet, supplements and way of living."
 hero = "/images/hero_gradient_zoomed.jp2"
 timeToRead = 6
