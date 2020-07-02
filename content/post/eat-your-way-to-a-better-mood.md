@@ -1,19 +1,17 @@
 +++
 authors = ["dr-bay"]
 date = 2020-07-02T04:00:00Z
-draft = true
 excerpt = "Diet can have a particularly profound impact on your mood, since your food choices can directly influence your body in a number of ways that maintain mental health. Check out these 5 strategies to help you eat your way to a better mood."
 hero = "/images/screen-shot-2020-07-02-at-8-00-25-am.png"
 timeToRead = 4
 title = "Eat Your Way to a Better Mood"
 
 +++
-
-![](/images/screen-shot-2020-07-02-at-8-08-19-am.png)Depression and anxiety have been on the rise for quite some time, but a new survey conducted by the National Center for Health Statistics and the Census Bureau, has further revealed that one in three adults now have symptoms of depression and/or anxiety post-quarantine.1 It's more important than ever to address the array of factors contributing to this issue, including genetics, nutritional status, physiological factors, health conditions, stress, sleep patterns, activity levels, medications, social factors and more. Diet can have a particularly profound impact on your mood, since your food choices can directly influence your body in a number of ways that maintain mental health. Check out these 5 strategies to help you eat your way to a better mood.
-
 ## 
 
-Nutrient Deficiencies
+Depression and anxiety have been on the rise for quite some time, but a new survey conducted by the National Center for Health Statistics and the Census Bureau, has further revealed that one in three adults now have symptoms of depression and/or anxiety post-quarantine.1 It's more important than ever to address the array of factors contributing to this issue, including genetics, nutritional status, physiological factors, health conditions, stress, sleep patterns, activity levels, medications, social factors and more. Diet can have a particularly profound impact on your mood, since your food choices can directly influence your body in a number of ways that maintain mental health. Check out these 5 strategies to help you eat your way to a better mood.
+
+## Nutrient Deficiencies
 
 Maintaining a healthy, nutrient rich diet can have a big effect on your mood. Evidence now shows that consuming excess processed foods, sugar, caffeine and alcohol all have detrimental effects on your mental health. 7 Poor diet can also lead to nutrient deficiencies, which have also been associated with many mental health complaints.8 This may be due to the fact that many neurotransmitters require specific vitamins and minerals to be efficiently produced. Eating a nutrient rich, plant based diet with lots of vegetables and fruits can help ensure that you are providing your body with the substances it needs to positively impact your mood and help you feel your best.
 
@@ -48,7 +46,9 @@ Sources of Omega 3 Fatty Acids:
 * Dark leafy greens
 * Algae
 
-Protein
+![](/images/screen-shot-2020-07-02-at-8-08-19-am.png)
+
+## Protein
 
 Lean protein is also key for mood regulation and is broken down into amino acids. One amino acid in particular is called tryptophan and is used to make two important neurotransmitters called dopamine and norepinephrine. 12 These neurotransmitters make you feel alert, energized and help you feel pleasure.11 Research has shown that there is a deficit of dopamine and norepinephrine in those with depressive illness.13, 16
 
@@ -64,9 +64,7 @@ Sources of protein:
 \-Turkey  
 \-Spirulina
 
-## 
-
-Cultivating a Healthy Gut Microbiome
+## Cultivating a Healthy Gut Microbiome
 
 Your gut sends signals to your brain though what is referred to as the gut brain axis.14 Studies indicate there is decreased diversity in the gut microbiomes of those with psychiatric disorders and altered behavior.15 There is also evidence supporting probiotics as an effective intervention in reducing depression and anxiety symptoms. 4,5 Eating foods that promote a diverse gut microbiome, such as a wide variety of vegetables and fruits, along with eating sources of pre and probiotics, can help you accomplish this goal.
 
@@ -100,9 +98,7 @@ Sources of Probiotics:
 * Tempeh
 * Cheeses with active cultures
 
-## 
-
-Mindful Eating
+## Mindful Eating
 
 Why is mindful eating important?
 
