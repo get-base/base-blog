@@ -10,7 +10,5 @@ social:
   url: https://github.com/lolapriego
 - title: Twitter
   url: https://twitter.com/Lolitapriego
-- title: github
-  url: https://github.com
 
 ---
