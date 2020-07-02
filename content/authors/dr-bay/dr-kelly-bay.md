@@ -1,6 +1,6 @@
 +++
-avatar = "/images/screen-shot-2020-07-01-at-10-01-09-am.png"
-bio = "MA, RD"
+avatar = "/images/screen-shot-2020-07-02-at-8-52-06-am.png"
+bio = "I'm a dietitian, mom & blogger that creates healthy recipes and writes about parenting, health, nutrition & fitness. 🍒🥒🥕"
 featured = true
 title = "Amanda Hernandez"
 [[social]]
