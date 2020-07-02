@@ -8,10 +8,8 @@ social:
   url: https://www.linkedin.com/in/lolapriego/
 - title: github
   url: https://github.com
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
+- title: Twitter
+  url: https://twitter.com/Lolitapriego
 - title: github
   url: https://github.com
 
