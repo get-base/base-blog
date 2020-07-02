@@ -44,4 +44,5 @@ fields:
   label: Featured Author
   description: Feature this author on the home page
 pages:
+- content/authors/dr-bay/dr-kelly-bay.md
 - content/authors/dr-beer/dr-maurice-beer.md
