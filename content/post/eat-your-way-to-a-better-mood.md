@@ -7,7 +7,6 @@ timeToRead = 4
 title = "Eat Your Way to a Better Mood"
 
 +++
-
 Depression and anxiety have been on the rise for quite some time, but a new survey conducted by the National Center for Health Statistics and the Census Bureau, has further revealed that one in three adults now have symptoms of depression and/or anxiety post-quarantine.1 It's more important than ever to address the array of factors contributing to this issue, including genetics, nutritional status, physiological factors, health conditions, stress, sleep patterns, activity levels, medications, social factors and more. Diet can have a particularly profound impact on your mood, since your food choices can directly influence your body in a number of ways that maintain mental health. Check out these 5 strategies to help you eat your way to a better mood.
 
 ## Nutrient Deficiencies
@@ -45,7 +44,7 @@ Sources of Omega 3 Fatty Acids:
 * Dark leafy greens
 * Algae
 
-![](/images/screen-shot-2020-07-02-at-8-08-19-am.png)
+    <img style="max-width: 400px;" src="https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80">
 
 ## Protein
 
