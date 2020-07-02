@@ -6,7 +6,7 @@ featured: true
 social:
 - title: linkedIn
   url: https://www.linkedin.com/in/lolapriego/
-- title: Github
+- title: github
   url: https://github.com/lolapriego
 - title: Twitter
   url: https://twitter.com/Lolitapriego
