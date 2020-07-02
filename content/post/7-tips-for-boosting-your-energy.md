@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-07-03T04:00:00Z
-draft = true
 excerpt = "Are you feeling tired all the time even when you got plenty of sleep? There are some things that you can do to help yourself feel better and to boost your energy!"
 hero = "/images/gradient_energy_small.jpg"
 timeToRead = 7
