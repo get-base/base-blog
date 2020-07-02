@@ -1,20 +1,11 @@
 ---
-title: Dennis Brotzky
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: "/images/dennis-brotzky.jpg"
+title: Amanda Hernandez
+bio: "I'm a dietitian, mom & blogger that creates healthy recipes and writes about
+  parenting, health, nutrition & fitness. \U0001F352\U0001F952\U0001F955\n"
+avatar: "/images/screen-shot-2020-07-02-at-8-52-06-am.png"
 featured: false
 social:
-- title: unsplash
-  url: https://unsplash.com
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
+- title: instagram
+  url: https://www.instagram.com/MInutritionist/
 
 ---
