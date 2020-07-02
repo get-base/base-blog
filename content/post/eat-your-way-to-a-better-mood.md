@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["mack-mansouri"]
 date = 2020-07-02T04:00:00Z
 excerpt = "Diet can have a particularly profound impact on your mood, since your food choices can directly influence your body in a number of ways that maintain mental health. Check out these 5 strategies to help you eat your way to a better mood."
 hero = "/images/post_photo_2.png"
