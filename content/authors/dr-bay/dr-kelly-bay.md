@@ -1,10 +1,10 @@
 +++
 avatar = "/images/screen-shot-2020-07-01-at-10-01-09-am.png"
-bio = "Doctor of Chiropractic, Master's in Human Nutrition www.drkellybay.com"
+bio = "MA, RD"
 featured = true
-title = "Dr Bay"
+title = "Amanda Hernandez"
 [[social]]
 title = "instagram"
-url = "https://www.instagram.com/drkellybay/"
+url = "https://www.instagram.com/MInutritionist/"
 
 +++
