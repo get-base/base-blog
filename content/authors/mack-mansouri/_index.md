@@ -1,18 +1,11 @@
 ---
-title: Mack Mansouri
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: /images/mack-mansouri.jpg
+title: Dr Bay
+bio: 'Doctor of Chiropractic, Master''s in Human Nutrition www.drkellybay.com
+
+'
+avatar: "/images/screen-shot-2020-07-01-at-10-01-09-am.png"
 social:
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
+- title: instagram
+  url: https://www.instagram.com/drkellybay/
+
 ---
