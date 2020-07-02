@@ -1,17 +1,11 @@
 +++
-avatar = "/images/lola_badge.png"
-bio = "Founder of Base"
+avatar = "/images/screen-shot-2020-07-02-at-8-52-06-am.png"
+bio = "I'm a dietitian, mom & blogger that creates healthy recipes and writes about parenting, health, nutrition & fitness. 🍒🥒🥕"
 draft = true
 featured = true
-title = "Lola Priego-(copy)"
+title = "Amanda Hernandez"
 [[social]]
-title = "linkedin"
-url = "https://www.linkedin.com/in/lolapriego/"
-[[social]]
-title = "github"
-url = "https://github.com/lolapriego"
-[[social]]
-title = "twitter"
-url = "https://twitter.com/Lolitapriego"
+title = "instagram"
+url = "https://www.instagram.com/MInutritionist/"
 
 +++
