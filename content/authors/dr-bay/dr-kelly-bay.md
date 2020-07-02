@@ -4,7 +4,7 @@ bio = "Doctor of Chiropractic, Master's in Human Nutrition and Bachelor of Scien
 featured = false
 title = "Dr Kelly Bay"
 [[social]]
-title = "Webpage"
+title = "webpage"
 url = "https://www.drkellybay.com/"
 [[social]]
 title = "instagram"
