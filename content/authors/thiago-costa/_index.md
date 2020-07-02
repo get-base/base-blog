@@ -4,7 +4,7 @@ bio: Founder of Base
 avatar: "/images/lola_badge.png"
 featured: true
 social:
-- title: LinkedIn
+- title: linkedIn
   url: https://www.linkedin.com/in/lolapriego/
 - title: Github
   url: https://github.com/lolapriego
