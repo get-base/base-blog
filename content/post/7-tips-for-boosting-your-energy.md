@@ -1,6 +1,6 @@
 +++
 authors = ["Amanda Hernandez"]
-date = 2020-07-03T04:00:00Z
+date = 2020-06-30T04:00:00Z
 excerpt = "Are you feeling tired all the time even when you got plenty of sleep? There are some things that you can do to help yourself feel better and to boost your energy!"
 hero = "/images/gradient_energy_small.jpg"
 timeToRead = 7
@@ -19,7 +19,6 @@ Vitamin D plays a huge role in energy levels and many people are vitamin D defic
 
 Your body produces vitamin D using energy from sunlight and is very important in the body. Having adequate vitamin D levels improves muscle function and can improve energy levels from within the cells. Optimal vitamin D levels are 30 ng/ml and having slightly reduced vitamin D levels from 21-29 ng/ml can make you feel more tired.
 
-  
 **3. Don't overdo the caffeine**
 
 Although when you are tired, you may feel like having a bunch of coffee or other caffeinated beverages, do not overdo it because it may make you feel worse. If you are truly tired, the caffeine will not really help and may make you crash worse once the effects of the caffeine wear off. Having a cup or two of coffee in the morning or a cup in the afternoon is fine but don't go crazy drinking a pot of coffee. Choose a time that you're not going to have any caffeine after so that you can fall asleep easily at night. Noon works for some people and some people are okay with having a coffee at 3 PM. Choose what works for you.
@@ -28,7 +27,6 @@ Although when you are tired, you may feel like having a bunch of coffee or other
 
 Getting a few minutes of movement mid-day can be extremely helpful to boosting your energy. If you work at an office type job especially, you may feel pretty tired from sitting around. Getting up and doing a bit of exercise will help give you a boost of energy to help get you through the rest of your day. Do some jumping jacks, squats, planks, pushups, etc. Just 5 minutes will get your heart rate up and increase your energy.
 
-  
 **5. Eat nutrient rich foods**
 
 Although your body may be craving junk food when you are sleep deprived, it is not what it actually wants. Instead, have whole grains which gives you a steady supply of energy instead of spiking your blood sugar quickly and then crashing like sugar or refined grains will do. Oatmeal in the morning is a great choice or a whole-grain piece of toast with peanut butter for a snack. A diet rich in fruits and vegetables provides vitamins to help you make sure that you're meeting your nutrient needs to feel your best.
