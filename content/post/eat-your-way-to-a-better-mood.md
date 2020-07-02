@@ -44,7 +44,7 @@ Sources of Omega 3 Fatty Acids:
 * Dark leafy greens
 * Algae
 
-    <img style="max-width: 400px;" src="https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80">
+![](/images/screen-shot-2020-07-02-at-8-08-19-am.png)
 
 ## Protein
 
