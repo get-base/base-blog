@@ -2,12 +2,11 @@
 authors = []
 date = 2020-07-02T04:00:00Z
 excerpt = "Diet can have a particularly profound impact on your mood, since your food choices can directly influence your body in a number of ways that maintain mental health. Check out these 5 strategies to help you eat your way to a better mood."
-hero = "/images/screen-shot-2020-07-02-at-8-00-25-am.png"
+hero = "/images/post_photo_2.png"
 timeToRead = 4
 title = "Eat Your Way to a Better Mood"
 
 +++
-## 
 
 Depression and anxiety have been on the rise for quite some time, but a new survey conducted by the National Center for Health Statistics and the Census Bureau, has further revealed that one in three adults now have symptoms of depression and/or anxiety post-quarantine.1 It's more important than ever to address the array of factors contributing to this issue, including genetics, nutritional status, physiological factors, health conditions, stress, sleep patterns, activity levels, medications, social factors and more. Diet can have a particularly profound impact on your mood, since your food choices can directly influence your body in a number of ways that maintain mental health. Check out these 5 strategies to help you eat your way to a better mood.
 
