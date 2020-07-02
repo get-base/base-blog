@@ -7,7 +7,7 @@ title = "Dr Kelly Bay"
 title = "Webpage"
 url = "https://www.drkellybay.com/"
 [[social]]
-title = "Instagram"
+title = "instagram"
 url = "https://www.instagram.com/drkellybay/"
 
 +++
