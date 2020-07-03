@@ -17,7 +17,7 @@ It turns out I had hormonal imbalances and cholesterol problems on top of that. 
 
 One of my approaches to start understanding my body better and to stay motivated was to buy a Fitbit. In my head that was committing to a better lifestyle. If I invested that money that meant that I would have to workout, that I would figure out how to sleep better, that I would optimize my workouts… etc. a wonderful world right?
 
-![Fitbit tracker to solve sleep](/images/fitbit_screenshot.png)
+![](/images/fitbit_screenshot-1.png)
 
 Except… it was not helping me to understand why sometimes I was waking up tired or what I should eat before or after a workout to prevent injuries. One day it ran out of battery and it is still waiting for me on my nightstand. I went through the honeymoon phase with my fitness tracker, cool graphs, motivational messages etc. but nothing to help me eat better fats or prevent brain fog.
 
