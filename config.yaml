@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "/blog/"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "BaseBlog"
 pygmentsstyle: 'monokai'
 
 # Theme settings
@@ -15,3 +15,12 @@ social:
   youtube: "#"
 taxonomies:
   author: authors
+
+deployment:
+  targets:
+    name: "mydeployment"
+    URL: "s3://nesshealth.co/blog/?region=us-east-1"
+  matchers:
+    pattern: "^.+\\.(js|css|png|jpg|gif|svg|ttf)$"
+    cacheControl: "max-age=630720000, no-transform, public"
+    gzip: true
