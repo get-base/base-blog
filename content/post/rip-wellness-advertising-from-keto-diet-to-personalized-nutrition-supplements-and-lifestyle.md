@@ -27,20 +27,22 @@ Except… **it was not helping me to understand why sometimes I was waking up ti
 
 **After that, soon I realized that if I would have had access to my data I would have discovered what was going on with my body early on**. It is really hard to _feel_ and know when your cholesterol is off or your Vitamin D levels are low. What you don’t measure, you don’t truly know and you can’t truly fix by diet or supplemental changes.
 
-We’ve known for a long time that spotting and fixing health issues before they turn into irreversible problems leads to longer, healthier lives but the motivation to do so is non-existent. Why? Because it’s hard to know what really matters and what not. A WHO study that dates all the way back to the 1980s has shown that only about 10% of our health depends on genetics, while 70% depends on lifestyle choices. That means you can have control over this 70% but how?
+We’ve known for a long time that focusing on preventative health before they facing irreversible problems leads to longer, healthier lives but the motivation to do so is non-existent. Why? Because it’s hard to know what really matters and what not. Additionally, there's evidence that if you turn to a genetics test to better understand what are your traits your are missing a big part of the picture given that genetics only determine part of our health. Scientist speculate that lifestyle is a stronger determinant of health and life span [^1]. This means **you** are in control of how you feel, now we only have to figure out what is the diet and lifestyle that suits you the best. 
 
 ![](/images/base_light2-copy.png)
 
-The current healthcare system is designed to diagnose and treat sickness but not to track and fix when something is off: fatigue, stomach issues, irritability, sleep quality, brain fog, weight plateaus etc. **If you go to the doctor and tell them that you are anxious or tired but not sick they will likely send you to other specialists outside of the core healthcare system that will cost you thousands of dollars**, and will be slow to get data and solutions. People tend to blame themselves for these things when the answer could actually be in their blood. Something that I experienced myself.
+Ok, so we've narrowed it down. We want to use the traditional lab tests approach to find answers to our sleep issues, brain fog, etc. Similar to how athletes work on improving their performance and being their best selves. However, our healthcare system is designed to diagnose and treat sickness, not how to track and fix every day issues such as fatigue, stomach sensitivities, irritability, sleep quality, brain fog, weight loss, etc. If you tell your primary care doctor that you have anxiety or low energy they’ll likely send you to a specialist outside of the core healthcare system where bills can easily climb. (and if you don’t have health insurance, then you can forget it altogether.) We tend to blame ourselves or attempt to fix our issues by listening to generic recommendations, something I know too well. 
 
-## **No more fake promises on fad diets, expensive supplements or wellness gurus**
+## **Gone with: fad diets, expensive supplements, and bs wellness gurus**
 
 ## ![Vitamin D + Vitamin B12 Energy tracking](/images/energy_score-copy.png "Vitamin D + Vitamin B12 Energy tracking")
 
 At Base we want to empower people to know which supplements to take (if needed and which dosages), what's their best routine (how much screen time is too much screen time?) and overall make better lifestyle and nutritional decisions. We want our product to be:
 
-* **Accessible**: test at the comfort of home or walk-in to a Quest diagnostics and get your sample taken in 10 minutes. Receive results directly on your phone 5 days later. No doctor visits, all managed from your app.
-* **Affordable**: taking a test should have a clear price tag and should not be hundred of dollars, copays, etc. At Base we work hard to improve labs operations to reduce costs, automate some of the decision process to make doctors quicker to prescribe and review tests and to cut out the middle man.
-* **Actionable**: Know what your results mean, how are they impacting your life and have the tools to improve them. If your Cortisol levels are low, you might be vitamin deficient — with Base you’ll know exactly how to fix that.
+* **Accessible**:Get an at-home test or stop by a conveniently located Quest Diagnostics for a walk-in appointment. Receive results directly to your app in 5 days or less. (Skip the doctor's office visit).
+* **Affordable**: everyone deserves and affordable access to their data. Get complete transparency with our pricing. There are no hidden lab fees, copays, etc. What you see is what you pay.
+* **Actionable**:  You’ll get comprehensive, science-based results along with the tools to improve the areas that need it, recommended by doctors. If your Cortisol levels are low, you might be vitamin deficient — Base will tell you exactly how to fix that.
 
 If you are interested in hearing more [take our quiz](https://get-base.com "Base at-home testing. Track Sleep, Sex Drive, Energy and more"), join or reach out to us!
+
+[^1]: https://ghr.nlm.nih.gov/primer/traits/longevity
