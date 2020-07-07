@@ -3,7 +3,7 @@ authors = [" thiago-costa"]
 date = 2020-07-01T16:00:00Z
 excerpt = "from Keto diet to building a company to find your ideal diet, supplements and way of living."
 hero = "/images/hero_gradient_v2.jpg"
-timeToRead = 6
+timeToRead = 7
 title = "RIP Wellness advertising; from Keto diet to personalized nutrition, supplements and lifestyle"
 
 +++
