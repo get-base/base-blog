@@ -13,7 +13,7 @@ Just like everyone else, I want to feel great and be energetic. I also wanted to
 
 It turns out I had hormonal imbalances and cholesterol problems on top of that. It took me many many days, copays, hidden bills, doctor’s opinions and many hours of research on Google to learn what was wrong and come up with a new diet that would fix my current issues… there had to be a better way than this.
 
-![](/images/screen-shot-2020-07-06-at-9-25-49-pm.png)
+![Keto diet to functional doctor appointment to dietitian near me. Blood tests](/images/screen-shot-2020-07-06-at-9-25-49-pm.png "Keto diet to functional doctor appointment to dietitian near me. Blood tests")
 
 ## **Fitness trackers for better sleep and workouts?**
 
@@ -35,7 +35,7 @@ The current healthcare system is designed to diagnose and treat sickness but not
 
 ## **No more fake promises on fad diets, expensive supplements or wellness gurus**
 
-##  ![Vitamin D + Vitamin B12 energy tracking](/images/energy_score.png "Vitamin D + Vitamin B12 energy tracking")
+## ![Vitamin D + Vitamin B12 energy tracking](/images/energy_score.png "Vitamin D + Vitamin B12 energy tracking")
 
 At Base we want to create a system that’s:
 
