@@ -44,23 +44,22 @@ Sources of Omega 3 Fatty Acids:
 * Dark leafy greens
 * Algae
 
-![](/images/screen-shot-2020-07-02-at-8-08-19-am.png)
-
 ## Protein
 
 Lean protein is also key for mood regulation and is broken down into amino acids. One amino acid in particular is called tryptophan and is used to make two important neurotransmitters called dopamine and norepinephrine. 12 These neurotransmitters make you feel alert, energized and help you feel pleasure.11 Research has shown that there is a deficit of dopamine and norepinephrine in those with depressive illness.13, 16
 
-Sources of protein:  
-\-Eggs  
-\-Lentils  
-\-Fish  
-\-Cheese  
-\-Beans  
-\-Nuts  
-\-Chicken  
-\-Beef  
-\-Turkey  
-\-Spirulina
+Sources of protein:
+
+* Eggs
+* Lentils
+* Fish
+* Cheese
+* Beans
+* Nuts
+* Chicken
+* Beef
+* Turkey
+* Spirulina
 
 ## Cultivating a Healthy Gut Microbiome
 
