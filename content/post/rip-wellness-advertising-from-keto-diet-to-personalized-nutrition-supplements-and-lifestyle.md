@@ -29,13 +29,13 @@ After that, soon I realized that if I would have had access to my data I would h
 
 We’ve known for a long time that spotting and fixing health issues before they turn into irreversible problems leads to longer, healthier lives but the motivation to do so is non-existent. Why? Because it’s hard to know what really matters and what not. A WHO study that dates all the way back to the 1980s has shown that only about 10% of our health depends on genetics, while 70% depends on lifestyle choices. That means you can have control over this 70% but how?
 
-![](/images/base_light2_copy.png)
+![](/images/base_light2-copy.png)
 
 The current healthcare system is designed to diagnose and treat sickness but not to track and fix when something is off: fatigue, stomach issues, irritability, sleep quality, brain fog, weight loss etc. If you go to the doctor and tell them that you are anxious or tired but not sick they will likely send you to other specialists outside of the core healthcare system that will cost you thousands of dollars, and will be slow to get data and solutions. People tend to blame themselves for these things when the answer could actually be in their blood. Something that I experienced myself.
 
 ## **No more fake promises on fad diets, expensive supplements or wellness gurus**
 
-## ![Vitamin D + Vitamin B12 energy tracking](/images/energy_score.png "Vitamin D + Vitamin B12 energy tracking")
+## ![](/images/energy_score-copy.png)
 
 At Base we want to create a system that’s:
 
