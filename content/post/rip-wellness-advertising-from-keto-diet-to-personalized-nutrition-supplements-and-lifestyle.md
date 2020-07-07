@@ -35,10 +35,12 @@ The current healthcare system is designed to diagnose and treat sickness but not
 
 ## **No more fake promises on fad diets, expensive supplements or wellness gurus**
 
-## ![](/images/energy_score-copy.png)
+## ![Vitamin D + Vitamin B12 Energy tracking](/images/energy_score-copy.png "Vitamin D + Vitamin B12 Energy tracking")
 
-At Base we want to create a system that’s:
+At Base we want to empower people to know which supplements to take (if needed and which dosages), what's their best routine (how much screen time is too much screen time?) and overall make better lifestyle and nutritional decisions. We want our product to be:
 
 * Accessible: test at the comfort of home or walk-in to a Quest diagnostics and get your sample taken in 10 minutes. Receive results directly on your phone 5 days later. No doctor visits, all managed from your app.
 * Affordable: taking a test should have a clear price tag and should not be hundred of dollars, copays, etc. At Base we work hard to improve labs operations to reduce costs, automate some of the decision process to make doctors quicker to prescribe and review tests and to cut out the middle man.
 * Actionable: Know what your results mean, how are they impacting your life and have the tools to improve them. If your Cortisol levels are low, you might be vitamin deficient — with Base you’ll know exactly how to fix that.
+
+If you are interested in hearing more [take our quiz](https://get-base.com "Base at-home testing. Track Sleep, Sex Drive, Energy and more"), join or reach out to us!
