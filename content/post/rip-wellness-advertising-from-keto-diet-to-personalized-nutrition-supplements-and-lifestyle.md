@@ -7,7 +7,7 @@ timeToRead = 6
 title = "RIP Wellness advertising; from Keto diet to personalized nutrition, supplements and lifestyle"
 
 +++
-Back in 2017 I heard of this diet that would help me achieve my goals at work, eliminate brain fog, upgrade my workouts and lose some weight. Pretty amazing right? Probably you have heard about this one too, the Keto diet.
+Back in 2017 I heard of this diet that would help me achieve my goals at work, eliminate brain fog, upgrade my workouts and lose some weight. Pretty amazing right? You've probably heard about this one too, the Keto diet.
 
 Just like everyone else, I want to feel great and be energetic. I also wanted to lose some weight., But after trying Keto, I felt like something was off. I wasn't sick--I just wasn't at my best. In order to figure out what was going on, I had to go to the doctor, then go to a lab, fill out endless questionnaires, wait 20 days for my results, which I had to get in person during a workday.
 
