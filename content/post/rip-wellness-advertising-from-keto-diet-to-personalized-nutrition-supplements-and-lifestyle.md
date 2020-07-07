@@ -13,7 +13,7 @@ Just like everyone else (I know), I bought into the pitch. I too wanted to have 
 
 As it turns out, my low-energy could definitely be explained by the fact that I was suffering from hormonal imbalances and cholesterol problems; my vitamins were also low which it explains the brain fog at the beginning of the journey. **It took me many many days, copays, hidden bills, doctor’s opinions and many hours of research on Google to learn what was wrong and come up with a new diet that would fix my current issues… there had to be a better way than this**.
 
-![Keto diet to functional doctor appointment to dietitian near me. Blood tests](/images/screen-shot-2020-07-06-at-9-25-49-pm.png "Keto diet to functional doctor appointment to dietitian near me. Blood tests")
+{{< logo-resize src="/images/screen-shot-2020-07-06-at-9-25-49-pm.png">}}
 
 ## **Fitness trackers for better sleep and workouts?**
 
@@ -29,7 +29,7 @@ Except… **it was not helping me to understand why sometimes I was waking up ti
 
 We’ve known for a long time that focusing on preventative health before they facing irreversible problems leads to longer, healthier lives but the motivation to do so is non-existent. Why? Because it’s hard to know what really matters and what not. Additionally, there's evidence that if you turn to a genetics test to better understand what are your traits your are missing a big part of the picture given that genetics only determine part of our health. Scientist speculate that lifestyle is a stronger determinant of health and life span [^1]. This means **you** are in control of how you feel, now we only have to figure out what is the diet and lifestyle that suits you the best. 
 
-![](/images/blood_tests_to_plans.png)
+{{< logo-resize src="/images/blood_tests_to_plans.png">}}
 
 Ok, so we've narrowed it down. We want to use the traditional lab tests approach to find answers to our sleep issues, brain fog, etc. Similar to how athletes work on improving their performance and being their best selves. However, our healthcare system is designed to diagnose and treat sickness, not how to track and fix every day issues such as fatigue, stomach sensitivities, irritability, sleep quality, brain fog, weight loss, etc. If you tell your primary care doctor that you have anxiety or low energy they’ll likely send you to a specialist outside of the core healthcare system where bills can easily climb. (and if you don’t have health insurance, then you can forget it altogether.) We tend to blame ourselves or attempt to fix our issues by listening to generic recommendations, something I know too well. 
 
