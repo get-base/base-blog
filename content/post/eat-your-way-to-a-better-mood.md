@@ -13,6 +13,8 @@ Depression and anxiety have been on the rise for quite some time, but a new surv
 
 Maintaining a healthy, nutrient rich diet can have a big effect on your mood. Evidence now shows that consuming excess processed foods, sugar, caffeine and alcohol all have detrimental effects on your mental health. \[^7\] Poor diet can also lead to nutrient deficiencies, which have also been associated with many mental health complaints.\[^8\] This may be due to the fact that many neurotransmitters require specific vitamins and minerals to be efficiently produced. Eating a nutrient rich, plant based diet with lots of vegetables and fruits can help ensure that you are providing your body with the substances it needs to positively impact your mood and help you feel your best.
 
+![](https://images.unsplash.com/photo-1557683316-973673baf926?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80)
+
 Nutrient Deficiencies Associated with Anxiety and Depression: \[^19\], \[^20\], \[^21\], \[^22\], \[^23\]
 
 * Manganese
@@ -25,7 +27,6 @@ Nutrient Deficiencies Associated with Anxiety and Depression: \[^19\], \[^20\], 
 * Folate
 * B1, B3, B6, B9, B12, Amino acids
 
-[photo-1519708227418-c8fd9a32b7a2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=510&q=80](https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=510&q=80 "photo-1519708227418-c8fd9a32b7a2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=510&q=80")
 
 ## Omega 3 Fatty Acids
 
@@ -46,6 +47,8 @@ Sources of Omega 3 Fatty Acids:
 * Dark leafy greens
 * Algae
 
+![](https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=510&q=80)
+
 ## Protein
 
 Lean protein is also key for mood regulation and is broken down into amino acids. One amino acid in particular is called tryptophan and is used to make two important neurotransmitters called dopamine and norepinephrine. \[^12\] These neurotransmitters make you feel alert, energized and help you feel pleasure. \[^11\] Research has shown that there is a deficit of dopamine and norepinephrine in those with depressive illness. \[^13\], \[^16\]
@@ -62,6 +65,8 @@ Sources of protein:
 * Beef
 * Turkey
 * Spirulina
+
+![](https://images.unsplash.com/photo-1506976785307-8732e854ad03?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80)
 
 ## Cultivating a Healthy Gut Microbiome
 
@@ -85,6 +90,8 @@ Sources of Prebiotics
 * Jicama
 * Seaweed
 
+![](https://images.unsplash.com/photo-1591726177513-478b79b1e8b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80)
+
 Sources of Probiotics:
 
 * Yogurt
@@ -102,6 +109,8 @@ Sources of Probiotics:
 Why is mindful eating important?
 
 Because even if you are eating the right foods, you still want to promote proper digestion, absorption and utilization of the food you are eating.
+
+![](https://images.unsplash.com/photo-1499728603263-13726abce5fd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=480&q=80)
 
 With mindful eating, it's important to make an effort to be self aware and undistracted when you eat. This will ensure that your body is relaxed and able to perform at its best, when digesting your food. It also involves the practice of slow eating with thorough chewing and staying away from distractions such as TV. Aiming for 20-30 minutes per meal in a relaxing environment can promote a beneficial state of parasympathetic relaxation rather than a fight or flight stress response which could impair digestion. This will also give your body the opportunity to produce signals needed for you to feel full and to leave you satiated. Slower eaters are also less likely to experience heartburn and gas than those who eat more quickly, because they typically chew their food more thoroughly, making it easier for digestion and absorption of important nutrients. Mindful eating is a great technique to make sure that you utilize all of the nutrients you need for better mental health.
 
