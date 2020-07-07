@@ -9,9 +9,11 @@ title = "RIP Wellness advertising; from Keto diet to personalized nutrition, sup
 +++
 Back in 2017 I heard of this diet that would help me achieve my goals at work, eliminate brain fog, upgrade my workouts and lose some weight. Pretty amazing right? Probably you have heard about this one too, the Keto diet.
 
-Just like everyone else, I want to feel great and be energetic. I also wanted to lose some weight., Bbut after trying Keto, I felt like something was off. I wasn't sick--I just wasn't at my best. In order to figure out what was going on, I had to go to the doctor, then go to a lab, fill out endless questionnaires, wait 20 days for my results, which I had to get in person during a workday.
+Just like everyone else, I want to feel great and be energetic. I also wanted to lose some weight., But after trying Keto, I felt like something was off. I wasn't sick--I just wasn't at my best. In order to figure out what was going on, I had to go to the doctor, then go to a lab, fill out endless questionnaires, wait 20 days for my results, which I had to get in person during a workday.
 
 It turns out I had hormonal imbalances and cholesterol problems on top of that. It took me many many days, copays, hidden bills, doctor’s opinions and many hours of research on Google to learn what was wrong and come up with a new diet that would fix my current issues… there had to be a better way than this.
+
+![](/images/screen-shot-2020-07-06-at-9-25-49-pm.png)
 
 ## **Fitness trackers for better sleep and workouts?**
 
@@ -33,7 +35,7 @@ The current healthcare system is designed to diagnose and treat sickness but not
 
 ## **No more fake promises on fad diets, expensive supplements or wellness gurus**
 
-## ![](/images/screen-shot-2020-06-29-at-7-52-52-am.png)
+##  ![Vitamin D + Vitamin B12 energy tracking](/images/energy_score.png "Vitamin D + Vitamin B12 energy tracking")
 
 At Base we want to create a system that’s:
 
