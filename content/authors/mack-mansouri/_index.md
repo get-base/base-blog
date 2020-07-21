@@ -5,5 +5,6 @@ avatar: "/images/dr_bay_cropped.png"
 social:
 - title: instagram
   url: https://www.instagram.com/drkellybay/
+featured: true
 
 ---
