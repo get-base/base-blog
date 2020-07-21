@@ -1,18 +1,11 @@
 ---
-title: Brad Tiller
+title: Natalie Rizzo
 bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: /images/brad-tiller.jpg
+  Natalie Rizzo, MS, RD
+  nutritionalanatalie.com
+avatar: "/images/screen-shot-2020-07-21-at-8-40-06-am.png"
 social:
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
+- title: instagram
+  url: https://www.instagram.com/nutritionalanat/
+
 ---
