@@ -13,7 +13,9 @@ Are you feeling tired all the time even when you got plenty of sleep? There are 
 
 Exercising first thing in the morning gives you a boost of energy that may last through the day. Something as simple as taking a walk outside will help you wake up a bit to have enough energy to start your day. Physical activity gets your heart rate up and gets your blood flowing which releases endorphins to raise your energy levels.
 
-**2. Make sure you're getting enough vitamin D**
+**2. Make sure you're getting enough Vitamin D**
+
+{{< logo-resize src="/images/vitamin_d_facts.png">}}
 
 Vitamin D plays a huge role in energy levels and many people are vitamin D deficient, especially those who live in areas that are cold without a lot of sunlight most of the year. Vitamin D can be found in foods such as fish, egg yolks and many fortified foods. Vitamin D supplements can be very effective in boosting vitamin D levels as well as getting as little as 20 minutes of sunlight on your skin each day.
 
@@ -22,6 +24,8 @@ Your body produces vitamin D using energy from sunlight and is very important in
 **3. Don't overdo the caffeine**
 
 Although when you are tired, you may feel like having a bunch of coffee or other caffeinated beverages, do not overdo it because it may make you feel worse. If you are truly tired, the caffeine will not really help and may make you crash worse once the effects of the caffeine wear off. Having a cup or two of coffee in the morning or a cup in the afternoon is fine but don't go crazy drinking a pot of coffee. Choose a time that you're not going to have any caffeine after so that you can fall asleep easily at night. Noon works for some people and some people are okay with having a coffee at 3 PM. Choose what works for you.
+
+{{< logo-resize src="/images/caffeine.png">}}
 
 **4. Move for a few minutes mid-day**
 
@@ -34,6 +38,8 @@ Although your body may be craving junk food when you are sleep deprived, it is n
 **6. Stay hydrated**
 
 It almost seems hard to believe but if you are dehydrated, it can make you feel more tired. Keep a reusable bottle of water filled up and sip it through the day. Bring it in the car wherever you go and drink, drink, drink. Dehydration has so many negative side effects that you want to make sure you're staying well-hydrated all day long.
+
+{{< logo-resize src="/images/boxed_water.png">}}
 
 **7. Stick to a reasonable bedtime**
 
