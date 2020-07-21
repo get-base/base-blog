@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["natalie-rizzo"]
 date = 2020-07-21T04:00:00Z
 excerpt = "Boosting brain health and concentration levels is possible with a little help from the diet. Add these nutrients to your plate to banish brain fog once and for all. "
 hero = "/images/screen-shot-2020-07-21-at-8-47-17-am.png"
