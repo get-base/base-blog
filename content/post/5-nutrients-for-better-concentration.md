@@ -17,7 +17,7 @@ Other [research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4105147/) has show
 
 DHA is abundant in fatty fish, like salmon, trout, mackerel, cod, sardines and anchovies. Walnuts, chia seeds and flax seeds are rich in ALA.
 
-![](/images/screen-shot-2020-07-21-at-8-48-58-am.png)
+{{< logo-resize src="/images/screen-shot-2020-07-21-at-8-48-58-am.png">}}
 
 ## **2. Antioxidants**
 
@@ -27,7 +27,7 @@ Lutein accumulates in the eye, and scientists have recently discovered that it a
 
 Anthocyanin is a type of flavonoid, otherwise known as a beneficial plant compound. Eating foods rich in anthocyanins, like blueberries, is associated with decreased age-related declines in mental functioning. [Studies](https://pubmed.ncbi.nlm.nih.gov/28283823/) in older adults have found that eating one cup of fresh blueberries per day for three months is linked with improvements in cognition. Anthocyanins are found in other dark red or purple foods, like blackberries, cherries, eggplant or concord grapes.
 
-![](/images/screen-shot-2020-07-21-at-8-48-44-am.png)
+{{< logo-resize src="/images/screen-shot-2020-07-21-at-8-48-44-am.png">}}
 
 ## **3. B vitamins**
 
@@ -41,7 +41,7 @@ Due to a lifetime of stress on the brain, cognitive decline is thought to be a n
 
 Luckily, Vitamin C is easy to get from fruits and vegetables, like citrus, bell peppers, strawberries, blueberries, leafy greens and more!
 
-![](/images/screen-shot-2020-07-21-at-8-47-17-am.png)
+{{< logo-resize src="/images/screen-shot-2020-07-21-at-8-47-17-am.png">}}
 
 ## **5. Probiotics**
 
@@ -49,4 +49,4 @@ Microorganisms living in the gut, otherwise known as probiotics, have an impact 
 
 [Research](https://www.frontiersin.org/articles/10.3389/fnagi.2016.00256/full) in Alzheimer’s patients found that those who drank milk with four probiotic bacteria species for 12 weeks scored better on a cognitive test, as compared to those who drank regular milk. This is a new field of study, so more research is still needed. Yet, it doesn’t hurt to eat probiotic rich foods, like yogurt, kefir, sauerkraut, miso and tempeh.
 
-![](/images/screen-shot-2020-07-21-at-8-48-34-am.png)
+{{< logo-resize src="/images/screen-shot-2020-07-21-at-8-48-34-am.png">}}
