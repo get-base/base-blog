@@ -25,7 +25,8 @@ Nutrient Deficiencies Associated with Anxiety and Depression: [^19], [^20], [^21
 * Vitamin D
 * Omega 3 fatty acids
 * Folate
-* B1, B3, B6, B9, B12, Amino acids
+* B1, B3, B6, B9, B12
+* Amino acids
 
 
 ## Omega 3 Fatty Acids
